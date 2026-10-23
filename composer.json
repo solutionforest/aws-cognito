@@ -19,6 +19,7 @@
   "require": {
     "php": "^8.2",
     "aws/aws-sdk-php": "^3.300",
+    "spomky-labs/pki-framework": "^1.2.2",
     "web-token/jwt-library": "^4.0"
   },
   "autoload": {
@@ -27,7 +28,7 @@
     }
   },
   "require-dev": {
-    "fakerphp/faker": "^1.23",
+    "fakerphp/faker": "^1.24",
     "phpunit/phpunit": "^11.5|^12.0"
   },
   "autoload-dev": {
