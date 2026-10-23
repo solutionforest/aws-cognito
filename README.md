@@ -1,3 +1,12 @@
+> **Solution Forest fork.** Maintained for PHP 8.2 – 8.5 with `web-token/jwt-library` 4. Install with a VCS repository:
+>
+> ```json
+> "repositories": [{ "type": "vcs", "url": "https://github.com/solutionforest/aws-cognito.git" }],
+> "require": { "pmill/aws-cognito": "^0.2.20" }
+> ```
+>
+> See [CHANGELOG.md](CHANGELOG.md).
+
 pmill/aws-cognito
 =================
 
